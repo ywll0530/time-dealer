@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+   font-family: 'Barlow', sans-serif;
+   font-size: 18px;
+   margin: 60px;
+}
+
+h1,h2,h3{
+   font-family: 'Josefin Sans', sans-serif;
+   font-weight: bold;  
+}
+
+a{
+  text-decoration: none;
+}
